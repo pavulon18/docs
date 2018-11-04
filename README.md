@@ -28,7 +28,7 @@ We at Calex believe in project AmityCoin; so much so that we launch with no Prem
 
 #### What we have planned
 
-- Upon mainnet, we’re going to be buying back AMITs from our miners to make a fund for future projects
+- Upon mainnet, we’re going to launch the Community Buyback System (CBS) where we buy back AMIT from our users.
 - Introducing a tipbot to get the flow of coins circulating between users hoping it helps introduce more people to get involved
 - Creating a web wallet so you can easily login to wallet via mobile browsers
 - Setting up a merchandise shop that accepts AMITs. This helps with the early economy of the coin proving it would be a reliable source of income for merchants 
