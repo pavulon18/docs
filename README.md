@@ -37,6 +37,3 @@ We at Calex believe in project AmityCoin; so much so that we launch with no Prem
 
 For the Community Buyback System to be successful we will still need to depend on the generosity and dedication of our users.  The system will fail if it is not supported.  To make raising the required amount of AMIT feasible we will be asking that users willing to participate in the system exchange 1 AMIT for 1 TRTL. Because TurtleCoin is where AmityCoin came from we think this is fitting. Users who are interested in taking part in the CBS can contact any of the AmityCoin team members.  We feel strongly that this method of funding future development is both fair to the users as well as the team.  You as the user should not be asked to fund a project in "Hope" of a return. This way early supporters will get at least something other than a thank you for their patronage.  We believe in our project. Will you join us?
 
-#### The TiddieHash
-
-![alt text](https://media.discordapp.net/attachments/495202152009170960/508824314615824397/image0.jpg?width=1394&height=558)
